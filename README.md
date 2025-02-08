@@ -18,8 +18,13 @@ const yardimYapanlar = [
 
 tutarHesapla(yardimYapanlar);
 a harfi 9 kere,
+
 h karfi 2 kere,
+
 m harfi 2 kere,
+
 e harfi 8 kere,
+
 t harfi 2 kere = toplam 23 kere olduğundan, 
+
 23.000 TL dönmeli.
